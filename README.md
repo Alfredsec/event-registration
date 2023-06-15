@@ -6,25 +6,24 @@ To design, develop and deploy a web application for event registration.
 ## DESIGN STEPS:
 
 ### Step 1:
-
+Create a new frame.
 
 ### Step 2:
-
+Select any one preset size of your choice.
 
 ### Step 3:
-
+Select the shapes you need.
 
 ### Step 4:
-
+Import images as needed.
 
 ### Step 5:
+Create pages based on your need and link them.
 
 ### Step 6:
-
 Validate the HTML and CSS code.
 
-### Step 6:
-
+### Step 7:
 Publish the website in the given URL.
 
 ## DESIGN:
@@ -583,7 +582,12 @@ align-items: center;
 color: #000000;
 ```
 ## OUTPUT:
+![Screenshot 2023-06-16 040253](https://github.com/Alfredsec/event-registration/assets/120621608/0e7b1ce7-b5d7-4786-a183-72521ecf6c94)
 
+![Screenshot 2023-06-16 040316](https://github.com/Alfredsec/event-registration/assets/120621608/a51e4ecb-9d94-40f8-a8bf-314c424bb85c)
+
+![Screenshot 2023-06-16 040437](https://github.com/Alfredsec/event-registration/assets/120621608/da84f1a2-e7a2-4159-9f1c-3410bedbb190)
 
 ## Result:
+The program to design, develop and deploy a web application for event registration is completed successfully.
 
